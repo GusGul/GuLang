@@ -1,0 +1,8 @@
+PRINT "HELLO WORLD"
+print "Eu sou a linguagem GuLang"
+
+PRINT 10+(2*4)
+print 10+2*4
+PRINT 2+2
+
+print 250
